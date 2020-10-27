@@ -1,6 +1,7 @@
 ## Laravel 5 e Lumen - Slack API
 
 [![Join the chat at https://gitter.im/vluzrmos/laravel-slack-api](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/vluzrmos/laravel-slack-api?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fspatten%2Flaravel-slack-api.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fspatten%2Flaravel-slack-api?ref=badge_shield)
 
 This package provides a simple way to use [Slack API](https://api.slack.com).
 
@@ -295,3 +296,6 @@ Invite new members to your team.
 ## License
 
 [DBAD License](https://dbad-license.org).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fspatten%2Flaravel-slack-api.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fspatten%2Flaravel-slack-api?ref=badge_large)
